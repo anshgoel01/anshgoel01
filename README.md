@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 💫 About Me:
-🌐 Currently working on Web Development<br><br>🤖 Learning AI & Machine Learning<br><br>🚀 Looking forward to collaborating on AI projects
+💫 About Me: 🌐 Currently working on Web Development<br>🤖 Learning AI & Machine Learning<br>🚀 Looking forward to collaborating on AI projects
 
 
 ## 🌐 Socials:
